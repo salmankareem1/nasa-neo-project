@@ -14,6 +14,10 @@ const NASA_API_URL = process.env.NASA_API_URL;
 app.use(cors());
 app.use(express.json());
 
+app.get("/", (req, res) => {
+    res.send({ message: "API is running successfully " });
+});
+
 
 app.get("/neo", async (req, res) => {
     try {
@@ -21,7 +25,6 @@ app.get("/neo", async (req, res) => {
         const today = new Date();
         const startDate = new Date();
         startDate.setDate(today.getDate() - 3); 
-
         const formattedStartDate = startDate.toISOString().split("T")[0];
         const formattedEndDate = today.toISOString().split("T")[0];
 
@@ -39,4 +42,4 @@ app.get("/neo", async (req, res) => {
     }
 });
 
-app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
+app.listen(PORT,'0.0.0.0', () => console.log(`Server running at http://localhost:${PORT}`));
