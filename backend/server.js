@@ -14,6 +14,10 @@ const NASA_API_URL = process.env.NASA_API_URL;
 app.use(cors());
 app.use(express.json());
 
+app.get("/", (req, res) => {
+    res.send({ message: "API is running successfully " });
+});
+
 
 app.get("/neo", async (req, res) => {
     try {
