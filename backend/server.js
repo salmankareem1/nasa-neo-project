@@ -25,7 +25,6 @@ app.get("/neo", async (req, res) => {
         const today = new Date();
         const startDate = new Date();
         startDate.setDate(today.getDate() - 3); 
-
         const formattedStartDate = startDate.toISOString().split("T")[0];
         const formattedEndDate = today.toISOString().split("T")[0];
 
