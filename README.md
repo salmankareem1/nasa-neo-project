@@ -39,7 +39,7 @@ Render
 
 ## 📸 Screenshots: 
  Dark Mode  
-![Dark Mode]Dark Mode.png
+![Dark Mode][Dark Mode.png](https://github.com/salmankareem1/nasa-neo-project/blob/7af599656a75dc28e3c47c96838a773fcd57cd1b/Dark%20Mode.png)
 
  Light Mode  
 ![Light Mode]Dark Mode.png
