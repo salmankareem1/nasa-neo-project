@@ -5,7 +5,7 @@ This is a full-stack web application that **fetches and visualizes Near-Earth Ob
 ---
 
  Live Demo
-Frontend: [https://nasa-neo-frontend.onrender.com](https://nasa-neo-frontend.onrender.com)  
+Frontend: [https://nasa-neo-frontend.onrender.com](https://nasa-neo-project-frontend.onrender.com)  
 Backend: [https://nasa-neo-project-backend.onrender.com](https://nasa-neo-project-backend.onrender.com)  
 
 Note: The app is hosted on Render's free plan, so it may take a few seconds to wake up if inactive.
