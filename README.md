@@ -39,10 +39,10 @@ Render
 
 ## 📸 Screenshots: 
  Dark Mode  
-![Dark Mode](https://via.placeholder.com/800x400.png?text=Dark+Mode+Screenshot)
+![Dark Mode]Dark Mode.png
 
  Light Mode  
-![Light Mode](https://via.placeholder.com/800x400.png?text=Light+Mode+Screenshot)
+![Light Mode]Dark Mode.png
 
 ---
 
