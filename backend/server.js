@@ -27,13 +27,9 @@ app.get("/neo", async (req, res) => {
         const formattedStartDate = startDate.toISOString().split("T")[0];
         const formattedEndDate = today.toISOString().split("T")[0];
 
-        console.log("Fetching NEO data from:", `${NASA_API_URL}?start_date=${formattedStartDate}&end_date=${formattedEndDate}&api_key=${NASA_API_KEY}`);
-
         const { data } = await axios.get(
             `${NASA_API_URL}?start_date=${formattedStartDate}&end_date=${formattedEndDate}&api_key=${NASA_API_KEY}`
         );
-
-        console.log("NASA API Response:", data);
 
         if (!data || !data.near_earth_objects) {
             throw new Error("Invalid API response");
