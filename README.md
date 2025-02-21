@@ -38,23 +38,23 @@ Render
 ---
 
 ## 📸 Screenshots: 
- Dark Mode  
-![Dark Mode][Dark Mode.png](https://github.com/salmankareem1/nasa-neo-project/blob/7af599656a75dc28e3c47c96838a773fcd57cd1b/Dark%20Mode.png)
+Dark Mode  
+https://github.com/salmankareem1/nasa-neo-project/blob/2bdb15ef55b53e87ce2cd7be5736bb8a49df4465/Dark%20Mode.png
 
 DarK mode scroll 1
-
+https://github.com/salmankareem1/nasa-neo-project/blob/2bdb15ef55b53e87ce2cd7be5736bb8a49df4465/DM%20scroll%201.png
 
 DarK mode scroll 2 
+https://github.com/salmankareem1/nasa-neo-project/blob/2bdb15ef55b53e87ce2cd7be5736bb8a49df4465/DM%20Scroll%202.png
 
-
- Light Mode  
-![Light Mode][https://github.com/salmankareem1/nasa-neo-project/blob/a283b48befdb73228bfc3a560c73f3e65c39a37a/Light%20mode.png]
+Light Mode  
+https://github.com/salmankareem1/nasa-neo-project/blob/2bdb15ef55b53e87ce2cd7be5736bb8a49df4465/Light%20mode.png
 
 Light mode scroll 1
-
+https://github.com/salmankareem1/nasa-neo-project/blob/2bdb15ef55b53e87ce2cd7be5736bb8a49df4465/LM%20scroll%201.png
 
 Light mode scroll 2
-
+https://github.com/salmankareem1/nasa-neo-project/blob/2bdb15ef55b53e87ce2cd7be5736bb8a49df4465/LM%20Scroll%202.png
 
 ---
 
