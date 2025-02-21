@@ -42,7 +42,7 @@ Render
 ![Dark Mode][Dark Mode.png](https://github.com/salmankareem1/nasa-neo-project/blob/7af599656a75dc28e3c47c96838a773fcd57cd1b/Dark%20Mode.png)
 
  Light Mode  
-![Light Mode]https://github.com/salmankareem1/nasa-neo-project/blob/a283b48befdb73228bfc3a560c73f3e65c39a37a/Light%20mode.png
+![Light Mode][https://github.com/salmankareem1/nasa-neo-project/blob/a283b48befdb73228bfc3a560c73f3e65c39a37a/Light%20mode.png](https://github.com/salmankareem1/nasa-neo-project/blob/228fe492c72fec33464a5f4853711342cc8e9906/Light%20mode.png)
 
 ---
 
